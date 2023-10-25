@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirmal Panchal</h1>
 <h3 align="center">A dedicated full-stack developer with a strong passion for learning and exploring new technologies.</h3>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&pause=1000&color=F75729&center=true&random=false&width=435&lines=I+am+Full+Stack+Developer!!!" alt="Typing SVG" /></a>
 - 🔭 I’m currently working on **Expenses Report**
 
 - 👨‍💻 All of my projects are available at [https://nirmalpanchal.netlify.app](https://nirmalpanchal.netlify.app)
