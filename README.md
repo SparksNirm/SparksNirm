@@ -6,7 +6,7 @@
 
    - 👨‍💻 All of my projects are available at [https://nirmalpanchal.netlify.app](https://nirmalpanchal.netlify.app)
 
-   - 💬 Ask me about **Java, SoringBoot, Docker, Kubernetes**
+   - 💬 Ask me about **Java, SpringBoot, Docker, Kubernetes**
    
    - 📫 How to reach me **panchalnirmal157@gmail.com**
      
