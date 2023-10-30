@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated full-stack developer with a strong passion for learning and exploring new technologies.</h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&pause=1000&color=F75729&center=true&random=false&width=435&lines=I+am+Full+Stack+Developer!!!" alt="Typing SVG" /></a></h3>
   
-  -  🔭 I’m currently working on **Expenses Report**
+  -  🔭 I’m currently working on **Expenses Report Project**
 
    - 👨‍💻 All of my projects are available at [https://nirmalpanchal.netlify.app](https://nirmalpanchal.netlify.app)
 
